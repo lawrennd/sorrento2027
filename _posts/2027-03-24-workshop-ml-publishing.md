@@ -14,6 +14,8 @@ organizers:
   family: Gorman
 - given: Hoel
   family: Kervadec
+- given: Tegan
+  family: Emerson
 show_abstracts: true
 talks:
 - title: "Welcome and introduction"

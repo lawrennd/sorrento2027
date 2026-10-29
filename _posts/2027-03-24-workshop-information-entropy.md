@@ -10,8 +10,6 @@ programme_date_time: "24 Mar"
 programme_title: "Workshop: Information, Entropy, and Learning"
 room: "Turchese"
 organizers:
-- given: Michael
-  family: Arbel
 - given: Joery
   family: de Vries
 - given: Aurélien

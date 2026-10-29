@@ -1,5 +1,5 @@
 ---
-title: "Multi-agent Systems"
+title: "AI for Science"
 tagline: Workshop
 layout: singletrack
 categories:
@@ -7,8 +7,13 @@ categories:
 programme_show: true
 programme_order: "20"
 programme_date_time: "22 Mar"
-programme_title: "Workshop: Multi-agent Systems"
+programme_title: "Workshop: AI for Science"
 room: "Turchese"
+organizers:
+- given: Claire-Verity
+  family: Hardgrove
+- given: Michael
+  family: Arbel
 show_abstracts: true
 talks:
 - title: "Welcome and introduction"
@@ -22,4 +27,4 @@ talks:
   end: "14:30"
 ---
 
-Schedule and organisers to be confirmed.
+Schedule to be confirmed with the organisers.
