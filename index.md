@@ -8,7 +8,7 @@ This is an initial draft of the 2027 programme. Workshops run in parallel on Mon
 
 **Monday 22 March**
 
-- AI for Science — Claire-Verity Hardgrove and Michael Arbel
+- AI for Science — Claire-Verity Hardgrove, Bianca Dumitrascu, and Michael Arbel
 - Communication of Uncertainty — Tom Diethe, Thomas Meier, and Amr Mousa
 
 **Tuesday 23 March**
