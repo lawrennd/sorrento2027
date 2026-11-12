@@ -12,6 +12,8 @@ room: "Turchese"
 organizers:
 - given: Claire-Verity
   family: Hardgrove
+- given: Bianca
+  family: Dumitrascu
 - given: Michael
   family: Arbel
 show_abstracts: true
